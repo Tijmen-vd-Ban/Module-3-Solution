@@ -1,0 +1,26 @@
+h2 {
+	text-align: center;
+}
+
+#collapsable-nav {
+	text-align: center;
+}
+
+#chicken-tile, #beef-tile, #sushi-tile {
+	border: 2px solid black;
+	margin-bottom: 15px;
+	color: white;
+	background: grey;
+}
+
+#navbar-header {
+}
+
+@media (max-width: 767px) {
+	.container {
+		margin: 0 15px 0;
+	}
+}
+
+
+
